@@ -1,4 +1,4 @@
-# Projeto Explorando os Recursos de IA Generativa com Copilot e OpenAI
+# IA Generativa com Copilot e OpenAI
 
 ## Análise das Imagens
 
